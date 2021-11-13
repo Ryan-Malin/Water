@@ -34,7 +34,7 @@ https://www.kaggle.com/adityakadiwal/water-potability
 <hr>
 
 ## Roadmap
-After completing preprocessing, our clean data set included 2011 samples connected with nine factors that affected water potability. Our approach trained four models of supervised machine learning namely K-nearest Neighbors, Supervised Vector Machine, Random Forest and Logistic Regression, as well as the Automated Neural Network Model for unsupervised machine learning. After cleaning the raw data, which involved dropping all null values, our dataset included 2011 samples and nine factors that affected water potability. The goal of this project is to compare the performance of each of the machine learning methods we used against one another for best accuracy to successfully determine water potability.
+After completing preprocessing, our clean data set included 2011 samples connected with nine factors that affected water potability. Our approach trained four models of supervised machine learning namely K-nearest Neighbors, Supervised Vector Machine, Random Forest and Logistic Regression, as well as the Automated Neural Network Model for unsupervised machine learning. The goal of this project is to compare the performance of each of the machine learning methods we used against one another for best accuracy to successfully determine water potability.
 <hr>
 
 ## Statistical Feature
